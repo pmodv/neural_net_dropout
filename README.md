@@ -1,2 +1,3 @@
 # neural_net_dropout
-nn with dropout using Sequential keras API 
+Sequential keras API 
+an example of neural net with dropout in testing (not just training)
